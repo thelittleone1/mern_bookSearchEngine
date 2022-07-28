@@ -12,7 +12,7 @@ https://young-harbor-28820.herokuapp.com/
 ## Installation
 To run this application it will require you to install:
 
-npm i
+'npm i'
 
 ## Usage
 
@@ -21,6 +21,9 @@ Run 'npm run develop'
 ## Technologies_Use
 
 JavaScript
+
 MongoDB
+
 Apollo
+
 Heroku 
